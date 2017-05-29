@@ -6,3 +6,10 @@
 * Breaking Bad
 * Supernatural
 * The vampire diares
+
+## Fundição
+
+* The OA
+* Flash
+* Arrow
+* Gotham
