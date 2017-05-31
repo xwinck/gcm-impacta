@@ -7,9 +7,9 @@
 * Eu, eu mesmo e Irene.
 * Brilho eterno de uma mente sem lembranças.
 
-## Filmes preferidos do Fulano de Tal
+## Filmes preferidos do Fernando Almeida
 
-* Filme 1
-* Filme 2
-* Filme 3 
-* Filme 4
+* Piratas do Caribe
+* Harry potter
+* American Pie
+* Até que a sorte nos separe
