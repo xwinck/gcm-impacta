@@ -13,3 +13,10 @@
 * Flash
 * Arrow
 * Gotham
+
+## Fernando Almeida
+
+* How I Met Your Mother
+* Breaking Bad
+* Dois homens e meio
+* Eu a patroa e as crianças
