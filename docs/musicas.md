@@ -7,9 +7,9 @@
 * Me encontra - Charlie Brown Jr.
 * Como os nossos pais - Elis Regina.
 
-# Músicas preferidos do Fulano.
+# Músicas preferidos do Fernando Almeida
 
-* Música 1
-* Música 2
-* Música 3
-* Música 5
+* Hungria - Carruagem
+* Hungria - Astronalta
+* Tribo da periferia - Ela ta virada
+* Hungria - Insonia
